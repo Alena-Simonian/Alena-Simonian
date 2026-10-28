@@ -66,10 +66,6 @@ React and TypeScript in front of Python and Go services. Experiment history, tra
 
 <div align="center">
 
-> A demo is a screenshot. A system is what happens at p95, with a trace, and a citation.
-
-<br>
-
 **Baseten** · previously **Weights & Biases**, **Snap**, **Hulu**
 
 Open to hard infrastructure problems, and to products where the model is only half the work.
